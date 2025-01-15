@@ -16,5 +16,6 @@ public class Arithmetic {
 		System.out.println("Multiplcation: " + (a * b));
 		System.out.println("Division: " + (a / b));
 		System.out.println("Reminder: " + (a % b));
+    System.out.println("The Arthmetic operations");
 	}
 }
